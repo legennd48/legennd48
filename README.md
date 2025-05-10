@@ -1,88 +1,98 @@
-# 👋 Hi, I'm Abdulrazzaq A. Liasu!
+<h1 align="center">👋 Hi there, I'm Abdulrazzaq A. Liasu!</h1>
 
-**Software Engineer | Full Stack Developer | Educator**  
-🌍 Based in Lagos, Nigeria  
-📧 [legennd48@gmail.com](mailto:legennd48@gmail.com)  
-🔗 [LinkedIn Profile](https://linkedin.com/in/aaliasu) | [Portfolio](#)
+<p align="center">
+  <strong>Backend Developer | Cybersecurity Enthusiast | AI for Education Advocate</strong><br>
+  🌍 Lagos, Nigeria • 💼 Open to remote work opportunities • 📧 <a href="mailto:legennd48@gmail.com">legennd48@gmail.com</a><br>
+  🔗 <a href="https://linkedin.com/in/aaliasu">LinkedIn</a> | <a href="#">Portfolio</a> | <a href="https://github.com/legennd48">GitHub</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a versatile software engineer with a diverse background in software development, technology, and education. With hands-on experience in full-stack development, I am passionate about building scalable and efficient applications that solve real-world problems. My journey in tech began with a strong foundation in education and problem-solving, and I’ve since expanded my expertise to include backend development, API design, and cloud deployment.
+I’m a **passionate software engineer** with a strong background in backend development and a growing specialization in **cybersecurity**. I thrive on solving complex problems and building scalable, secure applications that deliver real value.
 
-I’m particularly interested in leveraging AI and innovative technologies to create solutions that make learning more engaging and effective.
+My tech journey began with education and problem-solving, but has evolved to embrace cloud-native systems, secure backend APIs, and AI-powered tools. Now, I’m on a mission to **combine backend engineering with cybersecurity** — and someday soon, AI — to create solutions that are efficient, secure, and transformative.
 
 ---
 
-## 🔧 Skills & Technologies
+## 🧠 Key Skills & Technologies
 
-### Programming Languages
+### 🖥️ Programming
 - **Proficient:** JavaScript, Python, C, TypeScript
 - **Familiar:** HTML, CSS
 
-### Frameworks & Libraries
-- **Backend:** Node.js, Express.js, Flask
+### 🔧 Tools & Frameworks
+- **Backend:** Node.js, Express.js, Flask, Django
 - **Frontend:** React
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Deployment:** Nginx, Gunicorn, UFW, Docker (Learning)
 
-### Databases
-- **SQL:** MySQL
-- **NoSQL:** MongoDB
+### 🔐 Security & DevOps
+- JWT, Bcrypt, OAuth2, API Security, Secure Headers, Environment Hardening  
+- Git, GitHub, Shell scripting, Basic CI/CD
 
-### Tools & Technologies
-- **Version Control:** Git, GitHub
-- **Deployment & DevOps:** Nginx, Gunicorn, UFW
-- **Other:** JWT, Bcrypt, API Development, RESTful Services
-
-### Soft Skills
-- Teaching, Problem-solving, Project Management, Technical Writing, Curriculum Design
+### 🔍 Soft Skills
+- Technical Writing, Teaching, Mentorship, Problem Solving, Curriculum Design
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Projects Spotlight
 
-### [📝 JournalHub API](https://github.com/legennd48/JournalHub_API)
-An online journaling platform with full CRUD operations. Built with Node.js, Express, and MongoDB, it includes JWT authentication, email notifications, and comprehensive logging.
+### 🔐 [JournalHub API](https://github.com/legennd48/JournalHub_API)
+> **Tech Stack:** Node.js, Express, MongoDB, JWT  
+A secure journaling API with user authentication, logging, and email notifications. Focused on CRUD operations with a strong emphasis on API protection.
 
-### [🌐 FluentFlow](https://github.com/legennd48/FluentFlow)
-A versatile translation application integrating text and image OCR translation capabilities, utilizing Flask, Python, and Google Cloud Translate API. ***(Currently Offline)***
+### 🌍 [FluentFlow](https://github.com/legennd48/FluentFlow)
+> **Tech Stack:** Python, Flask, Google Cloud Translate API  
+A text and OCR-based translation web app. Combines AI and real-world utility — currently being refactored.
 
----
-
-## 📊 GitHub Stats
-
-![Abdulrazzaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=legennd48&show_icons=true&theme=radical)
-
----
-
-## 📈 What I’m Learning
-
-- **Artificial Intelligence:** Exploring how to integrate AI into educational tools to enhance learning experiences.
-- **Generative AI:** Learning how to apply generative AI in real-world applications, particularly in content creation and automation.
-- **Cloud Architecture:** Expanding my knowledge of cloud-native solutions, focusing on AWS and serverless architecture.
+### 🧵 [TailorFlow](#)
+> **In Progress**  
+An appointment and inventory management system for small businesses. Designed with scalability and real-user feedback.
 
 ---
 
-## 🎯 Future Goals
+## 📊 GitHub Activity
 
-- **Open Source Contribution:** I aim to contribute to open source projects, particularly in the education and AI domains.
-- **Certification:** Planning to earn certifications in AWS and AI to deepen my expertise and stay ahead in the rapidly evolving tech landscape.
-
----
-
-## 📫 Let’s Connect!
-
-I’m always open to discussing new opportunities, collaborations, or just geeking out over tech. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/aaliasu) or [email](mailto:legennd48@gmail.com).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=legennd48&show_icons=true&theme=radical" alt="legennd48's GitHub stats"/>
+</p>
 
 ---
 
-## 👨‍💻 My Journey
+## 📚 Currently Exploring
 
-From teaching and mentoring to building backend systems, my journey has been fueled by a passion for technology and learning. As I continue to grow in my career, I’m excited to take on new challenges and innovate with the latest technologies.
+- **Cybersecurity:** Preparing for my CC (Certified in Cybersecurity) exam – focusing on secure systems design and risk mitigation.
+- **Backend Mastery:** Deepening my skills in RESTful architecture, Django, PostgreSQL, and scalable services.
+- **AI Integration:** Exploring how to embed AI into backend systems to support education platforms.
 
+---
 
+## 🎯 2025 Goals
+
+- ✅ Earn my **CC Cybersecurity Certification** (exam on May 30)
+- 🚀 Contribute to meaningful open source in **AI and security**
+- 📈 Land a **remote backend/cybersecurity-focused role**
+- 🏗️ Build a full-stack SaaS product focused on small business tools
+
+---
+
+## 🤝 Let’s Collaborate
+
+I'm always open to networking, mentorship, project collaborations, and remote work opportunities. Let’s build something meaningful.
+
+📬 Reach out: [legennd48@gmail.com](mailto:legennd48@gmail.com)  
+💼 Connect on [LinkedIn](https://linkedin.com/in/aaliasu)
+
+---
+
+## 👨‍💻 My Developer Journey
+
+From educator to full-stack developer to backend specialist and cybersecurity explorer, my journey is fueled by curiosity and impact. I believe that tech should solve real problems — and I’m committed to being part of that solution.
+
+---
 
 <!---
 legennd48/legennd48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
